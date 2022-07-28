@@ -8,3 +8,7 @@
 .color-overlay {
     filter: brightness(32%);
 }
+
+.marg {
+    margin-top: 100px;
+}
