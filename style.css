@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600;700;800&display=swap');
 
-.margin-left {
-    margin-left: 30px;
-}
 
 .btn {
-    margin-left: 20%;
+    margin-left: 42%;
+}
+
+.color-overlay {
+    filter: brightness(30%);
 }
