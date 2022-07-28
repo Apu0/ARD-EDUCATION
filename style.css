@@ -19,3 +19,13 @@
     margin-left: 60%;
     margin-top: 10%;
 }
+
+.modal-header {
+    background: #F7941E;
+    color: #fff;
+}
+
+.required:after {
+    content: "*";
+    color: red;
+}
