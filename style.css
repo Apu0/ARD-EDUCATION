@@ -2,7 +2,11 @@
 
 
 .btn {
-    margin-left: 41%;
+    margin-left: 25%;
+}
+
+.btn-left {
+    margin-left: 40%;
 }
 
 .color-overlay {
@@ -28,4 +32,9 @@
 .required:after {
     content: "*";
     color: red;
+}
+
+.all-feedback {
+    margin-left: 45%;
+
 }
